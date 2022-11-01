@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C7IQpHxsRRxnYbtcd6Nu6r5MImo5IR9s6+3ShjmKjubdvsQRd7qkuai4aavLkzo1+ryNNE5TCyQ1jIbMsWY3+w==",
+  "dgSpecHash": "CNeZBa6/qQBcn7eIFb4k0q00ng9TClyB5OYoLqxXMXcxj3TpaDbMzTnWQxpBzwEx2gYXzP75MEZnls37NqlzZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Paulo Rocha\\piscinao\\piscinao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo Rocha\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
